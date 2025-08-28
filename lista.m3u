@@ -1,1 +1,22 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" group-title="Regional",Teleantioquia
+https://streaming.teleantioquia.co/teleantioquia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" group-title="Regional",Telecaribe
+https://streaming.telecaribe.gov.co/live/telecaribe.m3u8
+
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacífico" group-title="Regional",Telepacífico
+https://streaming.telepacifico.com/live/telepacifico.m3u8
+
+#EXTINF:-1 tvg-id="CanalTRO.co" tvg-name="Canal TRO" group-title="Regional",Canal TRO
+https://canaltro.com/live/tro.m3u8
+
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" group-title="Regional",Canal Capital
+https://canalcapital.gov.co/live/capital.m3u8
+
+#EXTINF:-1 tvg-id="Canal2Neiva.co" tvg-name="Canal 2 Neiva" group-title="Regional",Canal 2 Neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="Huila TV" group-title="Regional",Huila TV
+https://plataformavideo.com:19360/8020/8020.m3u8
