@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" group-title="Regional",Teleantioquia
 https://streaming.teleantioquia.co/teleantioquia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" group-title="Regional",Telecaribe
