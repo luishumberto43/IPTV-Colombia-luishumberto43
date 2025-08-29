@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" group-title="Regional",Teleantioquia
 https://streaming.teleantioquia.co/teleantioquia/live/playlist.m3u8
 
@@ -20,3 +18,182 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="Huila TV" group-title="Regional",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
+# ===============================
+# 🇨🇴 Grupo: Nacionales de Colombia
+# ===============================
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="Canal RCN" group-title="Nacional",Canal RCN
+https://rcn-live.cdn.telefonica.com/rcn.m3u8
+
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol TV" group-title="Nacional",Caracol TV
+https://caracoltv-stream.com/live/caracol.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" group-title="Nacional",Canal 1
+https://canal1-stream.com/live/canal1.m3u8
+
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" group-title="Nacional",Señal Colombia
+https://rtvc.gov.co/live/senalcolombia.m3u8
+
+#EXTINF:-1 tvg-id="Institucional.co" tvg-name="Canal Institucional" group-title="Nacional",Canal Institucional
+https://rtvc.gov.co/live/institucional.m3u8
+# ===============================
+# 🌍 Grupo: Internacionales
+# ===============================
+#EXTINF:-1 tvg-id="CNN.es" tvg-name="CNN en Español" group-title="Internacional",CNN en Español
+https://live.cnnspanish.com/hls/cnn.m3u8
+
+#EXTINF:-1 tvg-id="TVE.es" tvg-name="TVE Internacional" group-title="Internacional",TVE Internacional
+https://rtvelivestream.akamaized.net/tve_int.m3u8
+
+#EXTINF:-1 tvg-id="France24.es" tvg-name="France 24 Español" group-title="Internacional",France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="RT.es" tvg-name="RT Español" group-title="Internacional",RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.en" tvg-name="Al Jazeera English" group-title="Internacional",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+# ===============================
+# 🎶 Grupo: Musicales
+# ===============================
+#EXTINF:-1 tvg-id="HTV.la" tvg-name="HTV" group-title="Musicales",HTV
+https://live.htv.com/htv.m3u8
+
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit" group-title="Musicales",Telehit
+https://telehitstream.com/live/telehit.m3u8
+
+#EXTINF:-1 tvg-id="MTV.la" tvg-name="MTV Latinoamérica" group-title="Musicales",MTV Latinoamérica
+https://mtvla.com/live/mtv.m3u8
+
+#EXTINF:-1 tvg-id="CanalClasico.es" tvg-name="Canal Clásico" group-title="Musicales",Canal Clásico
+https://rtvelivestream.akamaized.net/canal_clasico.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.tv" tvg-name="Music Top" group-title="Musicales",Music Top
+https://streaming.music-top.tv/live/music-top.m3u8
+
+#EXTINF:-1 tvg-id="QuieroMusica.ar" tvg-name="Quiero Música" group-title="Musicales",Quiero Música
+https://stream.quieromusica.com/live/quieromusica.m3u8
+# ===============================
+# 👶 Grupo: Infantiles
+# ===============================
+#EXTINF:-1 tvg-id="DisneyJunior.la" tvg-name="Disney Junior" group-title="Infantiles",Disney Junior
+https://disneyjunior-stream.com/live/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.la" tvg-name="Cartoon Network" group-title="Infantiles",Cartoon Network
+https://cartoonnetwork-stream.com/live/cartoon.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.la" tvg-name="Discovery Kids" group-title="Infantiles",Discovery Kids
+https://discoverykids-stream.com/live/discoverykids.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.int" tvg-name="Baby TV" group-title="Infantiles",Baby TV
+https://babytv-stream.com/live/babytv.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.la" tvg-name="Nick Jr." group-title="Infantiles",Nick Jr.
+https://nickjr-stream.com/live/nickjr.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Infantiles",Pakapaka
+https://stream.pakapaka.gob.ar/live/pakapaka.m3u8
+# ===============================
+# 🎬 Grupo: Cine y Series
+# ===============================
+#EXTINF:-1 tvg-id="Paramount.la" tvg-name="Paramount Channel" group-title="Cine y Series",Paramount Channel
+https://paramount-stream.com/live/paramount.m3u8
+
+#EXTINF:-1 tvg-id="TNT.la" tvg-name="TNT" group-title="Cine y Series",TNT
+https://tnt-stream.com/live/tnt.m3u8
+
+#EXTINF:-1 tvg-id="CineCanal.la" tvg-name="CineCanal" group-title="Cine y Series",CineCanal
+https://cinecanal-stream.com/live/cinecanal.m3u8
+
+#EXTINF:-1 tvg-id="Space.la" tvg-name="Space" group-title="Cine y Series",Space
+https://space-stream.com/live/space.m3u8
+
+#EXTINF:-1 tvg-id="Golden.la" tvg-name="Golden" group-title="Cine y Series",Golden
+https://golden-stream.com/live/golden.m3u8
+
+#EXTINF:-1 tvg-id="FilmAndArts.la" tvg-name="Film&Arts" group-title="Cine y Series",Film&Arts
+https://filmandarts-stream.com/live/filmandarts.m3u8
+# ===============================
+# 📚 Grupo: Religiosos y Educativos
+# ===============================
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-name="Enlace TV" group-title="Religiosos",Enlace TV
+https://vdo.enlace.org/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN Español" group-title="Religiosos",EWTN Español
+https://ewtnespanol-live.akamaized.net/hls/live/2017892/EWTNespanol/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-name="Canal Luz" group-title="Religiosos",Canal Luz
+https://streaming.canal-luz.com/live/canalluz.m3u8
+
+#EXTINF:-1 tvg-id="Cristovision.co" tvg-name="Cristovisión" group-title="Religiosos",Cristovisión
+https://live.cristovision.tv/hls/cristovision.m3u8
+
+#EXTINF:-1 tvg-id="UNEDTV.cr" tvg-name="UNED TV" group-title="Educativos",UNED TV
+https://unedtv.ac.cr/live/unedtv.m3u8
+
+#EXTINF:-1 tvg-id="CanalEduca.pe" tvg-name="Canal Educa" group-title="Educativos",Canal Educa
+https://canaleduca.pe/live/canaleduca.m3u8
+# ===============================
+# 📚 Grupo: Religiosos y Educativos
+# ===============================
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-name="Enlace TV" group-title="Religiosos",Enlace TV
+https://vdo.enlace.org/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN Español" group-title="Religiosos",EWTN Español
+https://ewtnespanol-live.akamaized.net/hls/live/2017892/EWTNespanol/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-name="Canal Luz" group-title="Religiosos",Canal Luz
+https://streaming.canal-luz.com/live/canalluz.m3u8
+
+#EXTINF:-1 tvg-id="Cristovision.co" tvg-name="Cristovisión" group-title="Religiosos",Cristovisión
+https://live.cristovision.tv/hls/cristovision.m3u8
+
+#EXTINF:-1 tvg-id="UNEDTV.cr" tvg-name="UNED TV" group-title="Educativos",UNED TV
+https://unedtv.ac.cr/live/unedtv.m3u8
+
+#EXTINF:-1 tvg-id="CanalEduca.pe" tvg-name="Canal Educa" group-title="Educativos",Canal Educa
+https://canaleduca.pe/live/canaleduca.m3u8
+
+#EXTINF:-1 tvg-id="IntiTV.bo" tvg-name="Inti TV" group-title="Estilo de Vida",Inti TV
+https://intitv-stream.com/live/intitv.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Estilo de Vida",El Gourmet
+https://elgourmet-stream.com/live/elgourmet.m3u8
+
+#EXTINF:-1 tvg-id="MasChic.la" tvg-name="Más Chic" group-title="Estilo de Vida",Más Chic
+https://maschic-stream.com/live/maschic.m3u8
+
+#EXTINF:-1 tvg-id="CasaClub.tv" tvg-name="Casa Club TV" group-title="Estilo de Vida",Casa Club TV
+https://casaclub-stream.com/live/casaclub.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.mx" tvg-name="Canal del Congreso" group-title="Gobierno",Canal del Congreso
+https://canaldelcongreso.gob.mx/live/congreso.m3u8
+
+#EXTINF:-1 tvg-id="SenadoTV.cl" tvg-name="Senado TV Chile" group-title="Gobierno",Senado TV Chile
+https://senadotv.cl/live/senado.m3u8
+
+#EXTINF:-1 tvg-id="RTVCInstitucional.co" tvg-name="Canal Institucional" group-title="Gobierno",Canal Institucional
+https://rtvc.gov.co/live/institucional.m3u8
+
+#EXTINF:-1 tvg-id="CanalJusticia.ar" tvg-name="Canal Justicia" group-title="Gobierno",Canal Justicia
+https://canaljusticia.gob.ar/live/justicia.m3u8
+#EXTINF:-1 tvg-id="IntiTV.bo" tvg-name="Inti TV" group-title="Estilo de Vida",Inti TV
+https://intitv-stream.com/live/intitv.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Estilo de Vida",El Gourmet
+https://elgourmet-stream.com/live/elgourmet.m3u8
+
+#EXTINF:-1 tvg-id="MasChic.la" tvg-name="Más Chic" group-title="Estilo de Vida",Más Chic
+https://maschic-stream.com/live/maschic.m3u8
+
+#EXTINF:-1 tvg-id="CasaClub.tv" tvg-name="Casa Club TV" group-title="Estilo de Vida",Casa Club TV
+https://casaclub-stream.com/live/casaclub.m3u8
+#EXTINF:-1 tvg-id="TecTV.ar" tvg-name="TecTV" group-title="Tecnología",TecTV
+https://stream.tecnologia.gob.ar/live/tectv.m3u8
+
+#EXTINF:-1 tvg-id="CanalUNAM.mx" tvg-name="Canal UNAM" group-title="Educativos",Canal UNAM
+https://canalunam.mx/live/unam.m3u8
+
+#EXTINF:-1 tvg-id="CanalEncuentro.ar" tvg-name="Canal Encuentro" group-title="Cultura",Canal Encuentro
+https://stream.encuentro.gob.ar/live/encuentro.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW Español" group-title="Cultura",DW Español
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@123456/index_1_av-p.m3u8
